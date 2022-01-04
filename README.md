@@ -20,6 +20,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" height="30" align="left">
 
 <br />
+<br />
 <details>
 <summary>GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=altanfurkan&theme=merko" >
